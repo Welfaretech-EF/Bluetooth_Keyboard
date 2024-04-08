@@ -6,8 +6,8 @@ This project presents a simple 8 port programmable bluetooth keyboard. Each port
 * 8x Female 3.5mm socket
 
 # Assembly
-In order to assemble the circuit, the following frizting sketch has been designed
-<img src="https://github.com/Welfaretech-EF/XXX/Fritzing.png" width="512">
+In order to assemble the circuit, the following fritzing sketch has been designed. The pin headers used are instead of the 3.5mm mono sockets, for using a standard 0/1-switch.
+<img src="https://github.com/Welfaretech-EF/Bluetooth_Keyboard/blob/main/Images/Fritzing.png" width="512">
 
 # 3D Printed case
 A 3d printable custom case has been designed, enclosing all the electronics. All the stl files can be found in the "3D Models" folder.
