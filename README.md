@@ -2,7 +2,7 @@
 This project presents a simple 8 port programmable bluetooth keyboard. Each port can be controlled using a 3.5mm minijack switch and is able to send standard HID-signals through Bluetooth, making it possible to connect to a vast amount of devices, such as smartphones and laptops.
 
 # Requirements
-* ESP32
+* ESP32 Development Board
 * 8x Female 3.5mm socket
 
 # Assembly
